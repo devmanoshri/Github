@@ -1,6 +1,7 @@
 vs code shortcuts -----
 show panel - ctrl+ J
 
+<b>---- Github ----------------------------------</b>
 git config --global user.email "abc@gmail.com"
 git config --global user.name  "Manoshri"
 
